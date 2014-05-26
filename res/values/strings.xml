@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Action Bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Action Bar</string>
+    <string name="btn_send_message">Send Message</string>
+    
+    <!-- Activity titles -->    
+    <string name="activity_location_found">Location Found</string>
+    
+    <!-- Action Bar action items -->
+    <string name="action_search">Sarch</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+    
+    <!-- Search  -->
+    <string name="search_hint">Search color..</string>
+
+	<string-array name="Country">
+		<item>UK</item>
+		<item>GB</item>
+		<item>SG</item>
+		<item>US</item>
+	</string-array>
+	<string-array name="Name">
+		<item>宋智孝</item>
+		<item>刘在石</item>
+		<item>金钟国</item>
+		<item>哈哈</item>
+	</string-array>
+</resources>
